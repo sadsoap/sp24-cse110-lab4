@@ -15,4 +15,6 @@
 8. `[ 50, 100, 150 ]` is returned by the function. It functions the same as it did when each variable was declared/defined with `var`, since each `let` variable here is defined and used within its respective scope. 
 
 #### const declaration & let iterator
-9.  fdf
+9.  There is an error, since `i` is not defined outside of the scope of the `for` loop. 
+10.  `3` is printed by line 12, since the length of the `prices` array is `3`.
+11. `[ 50, 100, 150 ]` is returned by the function. It functions the same as it did with the previous variable types, since each variable here is defined and used within its respective scope. 
