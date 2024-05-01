@@ -2,11 +2,11 @@
 *****
 ## Part 1
 #### var declaration
-1. "values added: 20" is printed by line 9. There is an error here, if the intent is to show "10 + 10" or "10, 10". However, this is a developer/user error, not the program.
-2. "values added: 20" is printed by line 13. There is no error here. 
+1. `values added: 20` is printed by line 9. There is an error here, if the intent is to show `10 + 10` or `10, 10`. However, this is a developer/user error, not the program.
+2. `values added: 20` is printed by line 13. There is no error here. 
 
 #### let declaration
-3. "values added: 20" is printed by line 9. There is no error here. 
+3. `values added: 20` is printed by line 9. There is no error here. 
 4. This returns an error, because `result` does not exist/isn't defined outside of the `if(add)` block.
 
 #### const declaration
